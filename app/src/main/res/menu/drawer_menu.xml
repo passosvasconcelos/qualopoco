@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/title_acervo">
+        <menu>
+            <item android:id="@+id/nav_labi33"
+                android:title="Lab I33"
+                android:checkable="true"
+                android:checked="false"/>
+            <item android:id="@+id/nav_labi27"
+                android:title="Lab I27"
+                android:checkable="true"
+                android:checked="false"/>
+            <item android:id="@+id/nav_alaE"
+                android:title="Ala E"
+                android:checkable="true"
+                android:checked="false"/>
+            <item android:id="@+id/nav_predio20"
+                android:title="Prédio 20"
+                android:checkable="true"
+                android:checked="false"/>
+            <item android:id="@+id/nav_parque"
+                android:title="Parque Tec"
+                android:checkable="true"
+                android:checked="false"/>
+            <item android:id="@+id/nav_litoteca"
+                android:title="Litoteca"
+                android:checkable="true"
+                android:checked="false"/>
+        </menu>
+    </item>
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/mhistorico"
+            android:icon="@drawable/ic_history_black_24dp"
+            android:title="@string/title_fluxo"
+            android:checkable="true"
+            android:checked="false"/>
+        <item
+            android:id="@+id/mgraficos"
+            android:icon="@drawable/ic_show_chart_black_24dp"
+            android:title="@string/title_graficos"
+            android:checkable="true"
+            android:checked="false" />
+
+        <item
+            android:id="@+id/msync"
+            android:icon="@drawable/ic_sync_black_24dp"
+            android:title="@string/title_sync"
+            android:checkable="true"
+            android:checked="false"/>
+    </group>
+</menu>

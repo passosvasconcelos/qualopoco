@@ -1,0 +1,2 @@
+include ':app', ':MPChartExample'
+project(':MPChartExample').projectDir = new File('app/libs/MPAndroidChart-master/MPChartExample')

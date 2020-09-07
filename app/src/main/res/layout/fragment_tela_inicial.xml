@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingTop="5dp"
+        android:text="Laboratório de Testemunhos CENPES/PDEP/GSE"
+        android:textSize="27sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="match_parent"
+        android:layout_height="298dp"
+        android:layout_alignTop="@+id/textView13"
+        android:layout_marginTop="-229dp"
+        android:cropToPadding="false"
+        app:srcCompat="@drawable/testemunhos_main" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/textView8"
+        android:layout_marginTop="234dp"
+        android:text='Aplicativo para controle do fluxo de amostras nas instalações físicas do CENPES. Os dados ficam armazenados na nuvem com acesso restrito aos técnicos cadastrados a partir de uma conta google. O registro de entrada e saída de caixas são feitos com a leitura do QRCode utilizando a câmera do celular ou tablet. Os dados gravados na base de dados são: Poço, Tipo de amostra, nº e comprimento do testemunho, topo, base, nº da caixa, código de endereço, data e hora da leitura, movimentação (entrada ou saída), laboratório e localização. Na aba "Acervo" é possível visualizar e pesquisar caixas armazenadas. Na aba "Histórico" é possível pesquisar por datas e nome do poço. A função gráficos ainda não está disponível' />
+
+
+
+</RelativeLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/libs/MPAndroidChart-master/MPChartExample/MPChartExample.iml" filepath="$PROJECT_DIR$/app/libs/MPAndroidChart-master/MPChartExample/MPChartExample.iml" group="qualopoco/MPChartExample" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="qualopoco/app" />
+      <module fileurl="file://$PROJECT_DIR$/qualopoco.iml" filepath="$PROJECT_DIR$/qualopoco.iml" group="qualopoco" />
+    </modules>
+  </component>
+</project>

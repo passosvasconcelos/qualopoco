@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="Caixas por laboratório"
+        android:textSize="30sp"/>
+
+    <Button
+        android:id="@+id/btnAlaI33"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="Ala I 33 (Lab de testemunhos)"
+        android:onClick="startSecondActivity"/>
+
+    <Button
+        android:id="@+id/btnAlaI27"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="Ala I 27 (Parceria)"
+        android:onClick="startSecondActivity"/>
+    <Button
+        android:id="@+id/btnAlaE01"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="Ala E (E01)"
+        android:onClick="startSecondActivity"/>
+
+    <Button
+        android:id="@+id/btnPredio20"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="Predio 20 (Lab 86)"
+        android:onClick="startSecondActivity"/>
+
+    <Button
+        android:id="@+id/btnTorgua"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="Litoteca Torguá (REDUC)"
+        android:onClick="startSecondActivity"/>
+
+    <Button
+        android:id="@+id/btnParque"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="Parque Tecnológico"
+        android:onClick="startSecondActivity"/>
+</LinearLayout>

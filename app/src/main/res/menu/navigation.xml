@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/mlaboratorios"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_acervo"
+        android:checkable="true"
+        android:checked="false"/>
+    <item
+        android:id="@+id/mmovimentacoes"
+        android:icon="@drawable/ic_addtolist_black_24dp"
+        android:title="@string/title_movimentar"
+        android:checkable="true"
+        android:checked="false"/>
+    <item
+        android:id="@+id/mhistorico"
+        android:icon="@drawable/ic_history_black_24dp"
+        android:title="@string/title_fluxo"
+        android:checkable="true"
+        android:checked="false"/>
+    <item
+        android:id="@+id/mgraficos"
+        android:icon="@drawable/ic_show_chart_black_24dp"
+        android:title="@string/title_graficos"
+        android:checkable="true"
+        android:checked="false" />
+
+    <item
+        android:id="@+id/msync"
+        android:icon="@drawable/ic_sync_black_24dp"
+        android:title="@string/title_sync"
+        android:checkable="true"
+        android:checked="false"/>
+
+</menu>

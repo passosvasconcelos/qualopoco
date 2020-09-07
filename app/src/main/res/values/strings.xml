@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Qual o poço?</string>
+    <string name="laboratorio">laboratorio</string>
+    <string name="bancada">bancada</string>
+    <string name="title_movimentar">Manuseio</string>
+    <string name="title_acervo">Acervo</string>
+    <string name="title_graficos">Graficos</string>
+    <string name="title_sync">Sync</string>
+    <string name="title_fluxo">Histórico</string>
+    <string name="error_message">
+        An error has occurred. Please try again by clicking REFRESH
+    </string>
+    <string name="str_act_poco_hint">Qual o poço? Digite aqui</string>
+    <string name="title_activity_nav_drawer">nav_drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
