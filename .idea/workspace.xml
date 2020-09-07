@@ -20,6 +20,11 @@
     </system>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="passosvasconcelos &lt;passosvasconcelos.fv@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fH37bUIjsALg4tZSuOee2snwnZ" />
@@ -109,6 +114,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="602" y="114" key="CommitChangelistDialog2" timestamp="1599493272029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="602" y="114" key="CommitChangelistDialog2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599493272029" />
     <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1597263924847">
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
@@ -125,6 +134,10 @@
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
     <state width="1877" height="321" key="GridCell.Tab.0.right/1920.0.1920.1160/0.0.1920.1160@1920.0.1920.1160" timestamp="1597263924847" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1599493275943">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599493275943" />
     <state x="584" y="416" key="com.intellij.ide.util.TipDialog" timestamp="1599486392536">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

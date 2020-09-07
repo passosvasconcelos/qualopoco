@@ -76,7 +76,7 @@ public class MainActivity extends AppCompatActivity implements EasyPermissions.P
         SharedPreferences lab;
         lab = PreferenceManager.getDefaultSharedPreferences(this.getApplicationContext());
         SharedPreferences.Editor ed = lab.edit();
-        ed.putString("laboratorio_", laboratorio);
+        ed.putString("laboratorio", laboratorio);
         ed.apply();
         this.laboratorio = laboratorio;
     }
