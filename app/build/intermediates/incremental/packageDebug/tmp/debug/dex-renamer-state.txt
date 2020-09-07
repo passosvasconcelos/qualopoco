@@ -1,4 +1,4 @@
-#Mon Jul 27 12:06:10 BRT 2020
-base.0=C\:\\Users\\b9c2\\AndroidStudioProjects\\git\\qualopoco\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Mon Sep 07 13:26:20 BRT 2020
+base.0=C\:\\Users\\felip\\StudioProjects\\qualopoco\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

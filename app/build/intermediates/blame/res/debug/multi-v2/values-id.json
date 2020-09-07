@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\b9c2\\AndroidStudioProjects\\git\\qualopoco\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-id\\values-id.xml",
+            "outputFile": "C:\\Users\\felip\\StudioProjects\\qualopoco\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-id\\values-id.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\b9c2\\.gradle\\caches\\transforms-2\\files-2.1\\c947ccb39a9fb2a028d5b38fd42f5070\\zxing-android-embedded-3.4.0\\res\\values-id\\values-id.xml",
+                    "source": "C:\\Users\\felip\\.gradle\\caches\\transforms-2\\files-2.1\\c947ccb39a9fb2a028d5b38fd42f5070\\zxing-android-embedded-3.4.0\\res\\values-id\\values-id.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

@@ -6,195 +6,195 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="14"
-8-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml
+8-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="27" />
-9-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml
+9-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:5:5-67
-11-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:5:22-64
+11-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:5:22-64
 12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-12-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:6:5-79
-12-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:6:22-76
+12-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:6:22-76
 13    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
-13-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:7:5-71
-13-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:7:22-68
+13-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:7:5-71
+13-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:7:22-68
 14    <uses-permission android:name="android.permission.VIBRATE" />
-14-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:8:5-66
-14-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:8:22-63
+14-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:8:5-66
+14-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:8:22-63
 15    <uses-permission android:name="android.permission.CAMERA" /> <!-- Don't require camera, as this requires a rear camera. This allows it to work on the Nexus 7 -->
-15-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:21:5-65
-15-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:21:22-62
+15-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:21:5-65
+15-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:21:22-62
 16    <uses-feature
-16-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:24:5-26:36
+16-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:24:5-26:36
 17        android:name="android.hardware.camera"
-17-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:25:9-47
+17-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:25:9-47
 18        android:required="false" />
-18-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:26:9-33
+18-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:26:9-33
 19    <uses-feature
-19-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:27:5-29:36
+19-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:27:5-29:36
 20        android:name="android.hardware.camera.front"
-20-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:28:9-53
+20-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:28:9-53
 21        android:required="false" /> <!-- TODO replace above two with next line after Android 4.2 -->
-21-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:29:9-33
+21-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:29:9-33
 22    <!-- <uses-feature android:name="android.hardware.camera.any"/> -->
 23    <uses-feature
-23-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:32:5-34:36
+23-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:32:5-34:36
 24        android:name="android.hardware.camera.autofocus"
-24-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:33:9-57
+24-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:33:9-57
 25        android:required="false" />
-25-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:34:9-33
+25-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:34:9-33
 26    <uses-feature
-26-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:35:5-37:36
+26-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:35:5-37:36
 27        android:name="android.hardware.camera.flash"
-27-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:36:9-53
+27-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:36:9-53
 28        android:required="false" />
-28-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:37:9-33
+28-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:37:9-33
 29    <uses-feature
-29-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:38:5-40:36
+29-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:38:5-40:36
 30        android:name="android.hardware.screen.landscape"
-30-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:39:9-57
+30-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:39:9-57
 31        android:required="false" />
-31-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:40:9-33
+31-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:40:9-33
 32    <uses-feature
-32-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:41:5-43:36
+32-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:41:5-43:36
 33        android:name="android.hardware.wifi"
-33-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:42:9-45
+33-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:42:9-45
 34        android:required="false" />
-34-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:43:9-33
+34-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:43:9-33
 35
 36    <application
-36-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:10:5-39:19
+36-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:10:5-39:19
 37        android:allowBackup="false"
-37-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:11:9-36
+37-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:11:9-36
 38        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
-38-->[com.android.support:support-compat:28.0.0] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\00567bd0de14b33d1bf8a440dc72bff8\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+38-->[com.android.support:support-compat:28.0.0] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\00567bd0de14b33d1bf8a440dc72bff8\support-compat-28.0.0\AndroidManifest.xml:22:18-91
 39        android:debuggable="true"
 40        android:icon="@mipmap/ic_logo_br"
-40-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:12:9-42
+40-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:12:9-42
 41        android:label="@string/app_name"
-41-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:13:9-41
+41-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:13:9-41
 42        android:roundIcon="@mipmap/ic_logo_br_round"
-42-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:14:9-53
+42-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:14:9-53
 43        android:supportsRtl="true"
-43-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:15:9-35
+43-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:15:9-35
 44        android:testOnly="true"
 45        android:theme="@style/AppTheme" >
-45-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:16:9-40
+45-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:16:9-40
 46        <activity
-46-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:17:9-26:20
+46-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:17:9-26:20
 47            android:name="com.gse.pdep.qualopoco3.MainActivity"
-47-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:18:13-41
+47-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:18:13-41
 48            android:screenOrientation="portrait"
-48-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:19:13-49
+48-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:19:13-49
 49            android:theme="@style/AppTheme.NoActionBar" >
-49-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:20:13-56
+49-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:20:13-56
 50            <intent-filter>
-50-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:21:13-25:29
+50-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:21:13-25:29
 51                <action android:name="android.intent.action.MAIN" />
-51-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:22:17-69
-51-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:22:25-66
+51-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:22:17-69
+51-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:22:25-66
 52
 53                <category android:name="android.intent.category.LAUNCHER" />
-53-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:24:17-77
-53-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:24:27-74
+53-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:24:17-77
+53-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:24:27-74
 54            </intent-filter>
 55        </activity>
 56        <activity
-56-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:27:9-29:52
+56-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:27:9-29:52
 57            android:name="com.gse.pdep.qualopoco3.IOActivity"
-57-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:28:13-39
+57-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:28:13-39
 58            android:screenOrientation="portrait" />
-58-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:29:13-49
+58-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:29:13-49
 59        <activity android:name="com.gse.pdep.qualopoco3.historico" />
-59-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:30:9-47
-59-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:30:19-44
+59-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:30:9-47
+59-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:30:19-44
 60        <activity android:name="com.gse.pdep.qualopoco3.EstoqueAtual" />
-60-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:31:9-50
-60-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:31:19-47
+60-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:31:9-50
+60-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:31:19-47
 61        <activity android:name="com.gse.pdep.qualopoco3.ListaCaixasLab" />
-61-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:32:9-52
-61-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:32:19-49
+61-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:32:9-52
+61-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:32:19-49
 62        <activity android:name="com.gse.pdep.qualopoco3.BancadasI33Activity" />
-62-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:33:9-57
-62-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:33:19-54
+62-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:33:9-57
+62-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:33:19-54
 63        <activity android:name="com.gse.pdep.qualopoco3.BancadasI27Activity" />
-63-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:34:9-57
-63-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:34:19-54
+63-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:34:9-57
+63-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:34:19-54
 64        <activity android:name="com.gse.pdep.qualopoco3.BancadasP20Activity" />
-64-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:35:9-57
-64-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:35:19-54
+64-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:35:9-57
+64-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:35:19-54
 65        <activity android:name="com.gse.pdep.qualopoco3.BancadasParqueActivity" />
-65-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:36:9-60
-65-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:36:19-57
+65-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:36:9-60
+65-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:36:19-57
 66        <activity android:name="com.gse.pdep.qualopoco3.BancadasAlaEActivity" />
-66-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:37:9-58
-66-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:37:19-55
+66-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:37:9-58
+66-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:37:19-55
 67        <activity android:name="com.gse.pdep.qualopoco3.CaixasPorLaboratorioActivity" />
-67-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:38:9-66
-67-->C:\Users\b9c2\AndroidStudioProjects\git\qualopoco\app\src\main\AndroidManifest.xml:38:19-63
+67-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:38:9-66
+67-->C:\Users\felip\StudioProjects\qualopoco\app\src\main\AndroidManifest.xml:38:19-63
 68        <activity
-68-->[pub.devrel:easypermissions:0.3.0] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\63eaddeaf2ae1b0bd0d388061ea2fad0\easypermissions-0.3.0\AndroidManifest.xml:12:9-16:66
+68-->[pub.devrel:easypermissions:0.3.0] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\63eaddeaf2ae1b0bd0d388061ea2fad0\easypermissions-0.3.0\AndroidManifest.xml:12:9-16:66
 69            android:name="pub.devrel.easypermissions.AppSettingsDialogHolderActivity"
-69-->[pub.devrel:easypermissions:0.3.0] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\63eaddeaf2ae1b0bd0d388061ea2fad0\easypermissions-0.3.0\AndroidManifest.xml:13:13-86
+69-->[pub.devrel:easypermissions:0.3.0] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\63eaddeaf2ae1b0bd0d388061ea2fad0\easypermissions-0.3.0\AndroidManifest.xml:13:13-86
 70            android:exported="false"
-70-->[pub.devrel:easypermissions:0.3.0] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\63eaddeaf2ae1b0bd0d388061ea2fad0\easypermissions-0.3.0\AndroidManifest.xml:14:13-37
+70-->[pub.devrel:easypermissions:0.3.0] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\63eaddeaf2ae1b0bd0d388061ea2fad0\easypermissions-0.3.0\AndroidManifest.xml:14:13-37
 71            android:label=""
-71-->[pub.devrel:easypermissions:0.3.0] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\63eaddeaf2ae1b0bd0d388061ea2fad0\easypermissions-0.3.0\AndroidManifest.xml:15:13-29
+71-->[pub.devrel:easypermissions:0.3.0] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\63eaddeaf2ae1b0bd0d388061ea2fad0\easypermissions-0.3.0\AndroidManifest.xml:15:13-29
 72            android:theme="@style/EasyPermissions.Transparent" />
-72-->[pub.devrel:easypermissions:0.3.0] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\63eaddeaf2ae1b0bd0d388061ea2fad0\easypermissions-0.3.0\AndroidManifest.xml:16:13-63
+72-->[pub.devrel:easypermissions:0.3.0] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\63eaddeaf2ae1b0bd0d388061ea2fad0\easypermissions-0.3.0\AndroidManifest.xml:16:13-63
 73        <activity
-73-->[com.google.android.gms:play-services-auth:10.2.6] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\726b159834161a5887cd0734f103b83d\play-services-auth-10.2.6\AndroidManifest.xml:20:9-189
+73-->[com.google.android.gms:play-services-auth:10.2.6] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\726b159834161a5887cd0734f103b83d\play-services-auth-10.2.6\AndroidManifest.xml:20:9-189
 74            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
-74-->[com.google.android.gms:play-services-auth:10.2.6] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\726b159834161a5887cd0734f103b83d\play-services-auth-10.2.6\AndroidManifest.xml:20:19-68
+74-->[com.google.android.gms:play-services-auth:10.2.6] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\726b159834161a5887cd0734f103b83d\play-services-auth-10.2.6\AndroidManifest.xml:20:19-68
 75            android:excludeFromRecents="true"
-75-->[com.google.android.gms:play-services-auth:10.2.6] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\726b159834161a5887cd0734f103b83d\play-services-auth-10.2.6\AndroidManifest.xml:20:129-162
+75-->[com.google.android.gms:play-services-auth:10.2.6] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\726b159834161a5887cd0734f103b83d\play-services-auth-10.2.6\AndroidManifest.xml:20:129-162
 76            android:exported="false"
-76-->[com.google.android.gms:play-services-auth:10.2.6] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\726b159834161a5887cd0734f103b83d\play-services-auth-10.2.6\AndroidManifest.xml:20:163-187
+76-->[com.google.android.gms:play-services-auth:10.2.6] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\726b159834161a5887cd0734f103b83d\play-services-auth-10.2.6\AndroidManifest.xml:20:163-187
 77            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-77-->[com.google.android.gms:play-services-auth:10.2.6] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\726b159834161a5887cd0734f103b83d\play-services-auth-10.2.6\AndroidManifest.xml:20:69-128
+77-->[com.google.android.gms:play-services-auth:10.2.6] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\726b159834161a5887cd0734f103b83d\play-services-auth-10.2.6\AndroidManifest.xml:20:69-128
 78        <!--
 79Service handling Google Sign-In user revocation. For apps that do not integrate with
 80            Google Sign-In, this service will never be started.
 81        -->
 82        <service
-82-->[com.google.android.gms:play-services-auth:10.2.6] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\726b159834161a5887cd0734f103b83d\play-services-auth-10.2.6\AndroidManifest.xml:24:9-184
+82-->[com.google.android.gms:play-services-auth:10.2.6] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\726b159834161a5887cd0734f103b83d\play-services-auth-10.2.6\AndroidManifest.xml:24:9-184
 83            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
-83-->[com.google.android.gms:play-services-auth:10.2.6] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\726b159834161a5887cd0734f103b83d\play-services-auth-10.2.6\AndroidManifest.xml:24:18-63
+83-->[com.google.android.gms:play-services-auth:10.2.6] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\726b159834161a5887cd0734f103b83d\play-services-auth-10.2.6\AndroidManifest.xml:24:18-63
 84            android:exported="true"
-84-->[com.google.android.gms:play-services-auth:10.2.6] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\726b159834161a5887cd0734f103b83d\play-services-auth-10.2.6\AndroidManifest.xml:24:64-87
+84-->[com.google.android.gms:play-services-auth:10.2.6] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\726b159834161a5887cd0734f103b83d\play-services-auth-10.2.6\AndroidManifest.xml:24:64-87
 85            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
-85-->[com.google.android.gms:play-services-auth:10.2.6] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\726b159834161a5887cd0734f103b83d\play-services-auth-10.2.6\AndroidManifest.xml:24:88-182
+85-->[com.google.android.gms:play-services-auth:10.2.6] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\726b159834161a5887cd0734f103b83d\play-services-auth-10.2.6\AndroidManifest.xml:24:88-182
 86
 87        <activity
-87-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:46:9-52:63
+87-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:46:9-52:63
 88            android:name="com.journeyapps.barcodescanner.CaptureActivity"
-88-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:47:13-74
+88-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:47:13-74
 89            android:clearTaskOnLaunch="true"
-89-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:48:13-45
+89-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:48:13-45
 90            android:screenOrientation="sensorLandscape"
-90-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:49:13-56
+90-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:49:13-56
 91            android:stateNotNeeded="true"
-91-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:50:13-42
+91-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:50:13-42
 92            android:theme="@style/zxing_CaptureTheme"
-92-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:51:13-54
+92-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:51:13-54
 93            android:windowSoftInputMode="stateAlwaysHidden" />
-93-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:52:13-60
+93-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\c947ccb39a9fb2a028d5b38fd42f5070\zxing-android-embedded-3.4.0\AndroidManifest.xml:52:13-60
 94        <activity
-94-->[com.google.android.gms:play-services-base:10.2.6] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\ac04f8a8c7c99011e10c1056be9e50c4\play-services-base-10.2.6\AndroidManifest.xml:19:9-172
+94-->[com.google.android.gms:play-services-base:10.2.6] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\ac04f8a8c7c99011e10c1056be9e50c4\play-services-base-10.2.6\AndroidManifest.xml:19:9-172
 95            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-95-->[com.google.android.gms:play-services-base:10.2.6] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\ac04f8a8c7c99011e10c1056be9e50c4\play-services-base-10.2.6\AndroidManifest.xml:19:19-85
+95-->[com.google.android.gms:play-services-base:10.2.6] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\ac04f8a8c7c99011e10c1056be9e50c4\play-services-base-10.2.6\AndroidManifest.xml:19:19-85
 96            android:exported="false"
-96-->[com.google.android.gms:play-services-base:10.2.6] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\ac04f8a8c7c99011e10c1056be9e50c4\play-services-base-10.2.6\AndroidManifest.xml:19:146-170
+96-->[com.google.android.gms:play-services-base:10.2.6] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\ac04f8a8c7c99011e10c1056be9e50c4\play-services-base-10.2.6\AndroidManifest.xml:19:146-170
 97            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-97-->[com.google.android.gms:play-services-base:10.2.6] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\ac04f8a8c7c99011e10c1056be9e50c4\play-services-base-10.2.6\AndroidManifest.xml:19:86-145
+97-->[com.google.android.gms:play-services-base:10.2.6] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\ac04f8a8c7c99011e10c1056be9e50c4\play-services-base-10.2.6\AndroidManifest.xml:19:86-145
 98
 99        <meta-data
-99-->[com.google.android.gms:play-services-basement:10.2.6] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\e29573e05eadc1d0b3decae0ddf75d1f\play-services-basement-10.2.6\AndroidManifest.xml:20:9-121
+99-->[com.google.android.gms:play-services-basement:10.2.6] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\e29573e05eadc1d0b3decae0ddf75d1f\play-services-basement-10.2.6\AndroidManifest.xml:20:9-121
 100            android:name="com.google.android.gms.version"
-100-->[com.google.android.gms:play-services-basement:10.2.6] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\e29573e05eadc1d0b3decae0ddf75d1f\play-services-basement-10.2.6\AndroidManifest.xml:20:20-65
+100-->[com.google.android.gms:play-services-basement:10.2.6] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\e29573e05eadc1d0b3decae0ddf75d1f\play-services-basement-10.2.6\AndroidManifest.xml:20:20-65
 101            android:value="@integer/google_play_services_version" />
-101-->[com.google.android.gms:play-services-basement:10.2.6] C:\Users\b9c2\.gradle\caches\transforms-2\files-2.1\e29573e05eadc1d0b3decae0ddf75d1f\play-services-basement-10.2.6\AndroidManifest.xml:20:66-119
+101-->[com.google.android.gms:play-services-basement:10.2.6] C:\Users\felip\.gradle\caches\transforms-2\files-2.1\e29573e05eadc1d0b3decae0ddf75d1f\play-services-basement-10.2.6\AndroidManifest.xml:20:66-119
 102    </application>
 103
 104</manifest>
